@@ -4,8 +4,6 @@
 //  * On popup window load even Send the response and send window
 //  */
 
-const API_KEY = "AIzaSyDnzgVcXqXvt6dVzGXhIu1pkF76HmNq8dI";
-const token = "";
 // chrome.runtime.onInstalled.addListener(function(details){
 //     console.log(details);
 //     if(details.reason === "install"){
